@@ -1,0 +1,20 @@
+nav
+{
+	background: #009688;
+}
+.form
+{
+	float: left;
+	height: 100%;
+	width: 30%;
+	padding: 30px;
+	box-sizing: border-box;
+}
+.response
+{
+	float: left;
+	height: 100%;
+	width: 70%;
+	padding: 30px;
+	box-sizing: border-box;
+}
